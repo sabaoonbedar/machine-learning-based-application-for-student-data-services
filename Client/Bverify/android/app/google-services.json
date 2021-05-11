@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "763984393992",
+    "project_id": "bverify-f4a48",
+    "storage_bucket": "bverify-f4a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763984393992:android:13f0959ebea1bb6768debd",
+        "android_client_info": {
+          "package_name": "com.bverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763984393992-gebi14i3197t90qtap35i18n9f7334os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jC4ghhCbpvqq2WNyRm71gINRnQ8GGAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763984393992-gebi14i3197t90qtap35i18n9f7334os.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763984393992-44lj9igf151chv7jjm0n3gscngdhilcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sdfsdfadsf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
